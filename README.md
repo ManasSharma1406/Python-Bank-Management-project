@@ -22,7 +22,7 @@ A simple console-based Bank Management System implemented in Python using SQLite
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/bank-management-system.git
+git clone https://github.com/yourusername/bank-management-system.git](https://github.com/ManasSharma1406/Python-Bank-Management-project.git
 ```
 
 2. Navigate to the project directory
